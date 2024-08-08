@@ -14,6 +14,8 @@
 ## BingoGame : Using Flutter and Node.js (WebSocket) to enable real-time interaction.
 ![image](https://github.com/user-attachments/assets/425e88f1-2fd8-426b-8920-5aa13523bc71)
 ![image](https://github.com/user-attachments/assets/c1b14fb9-2575-4245-a00f-6a9e7a879d4f)
+
+### 作品影片連結
 [作品成果展示](https://www.youtube.com/watch?v=WQUq8-bHKJE&t)
 
 ## 多媒體技術與應用 : 利用blender製作3D特效，利用davinci後期剪輯、配音 
@@ -21,7 +23,8 @@
 ![image](https://github.com/user-attachments/assets/f577cbea-1b58-496f-9ed1-56cd8bc88ad8)
 [作品成果展示](https://www.youtube.com/watch?v=zgRUebi1H8c&t)
 
+### 作品影片連結
+[作品成果展示](https://www.youtube.com/watch?v=zgRUebi1H8c&t)
+
 ## 微算機與組合語言教學 : 錄製微算機課程(8086 / Assembly語言 )教學同學
 [微算機與組合語言撥放清單](https://www.youtube.com/playlist?list=PLAlP_YSrtW1hNbKXAfN93HIXXW4EyQDzW)
-
-##
