@@ -9,4 +9,7 @@
 - 2024.8 跟學生會達成合作，利用 Flutter + Firebase 打造北大App
 - 準備考研中...
 
-# 每天都好累
+# 現有作品集
+
+## BingoGame : Using Flutter and Node.js (WebSocket) to enable real-time interaction.
+{youtube WQUq8-bHKJE&t}
