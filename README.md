@@ -12,4 +12,6 @@
 # 現有作品集
 
 ## BingoGame : Using Flutter and Node.js (WebSocket) to enable real-time interaction.
+![image](https://github.com/user-attachments/assets/425e88f1-2fd8-426b-8920-5aa13523bc71)
+![image](https://github.com/user-attachments/assets/c1b14fb9-2575-4245-a00f-6a9e7a879d4f)
 [作品成果展示](https://www.youtube.com/watch?v=WQUq8-bHKJE&t)
